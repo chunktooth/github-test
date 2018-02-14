@@ -1,1 +1,1 @@
-const brew = {};
+const brew = { flavor: 'bitter' };
